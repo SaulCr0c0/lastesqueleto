@@ -1,6 +1,6 @@
-package com.spokefan.data.server
+package com.spokefan.lastesqueleto.data.server
 
-import com.spokefan.data.server.models.Post
+import com.spokefan.lastesqueleto.data.server.models.Post
 import retrofit2.http.GET
 
 interface PostService {

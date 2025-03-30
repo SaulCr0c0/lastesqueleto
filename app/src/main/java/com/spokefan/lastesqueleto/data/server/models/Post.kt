@@ -1,4 +1,4 @@
-package com.spokefan.data.server.models
+package com.spokefan.lastesqueleto.data.server.models
 
 import com.google.gson.annotations.SerializedName
 

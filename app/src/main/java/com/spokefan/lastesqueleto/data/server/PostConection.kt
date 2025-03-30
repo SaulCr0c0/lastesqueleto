@@ -1,4 +1,4 @@
-package com.spokefan.data.server
+package com.spokefan.lastesqueleto.data.server
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
@@ -11,5 +11,5 @@ object PostConection {
                 .build()
     }
 
-    val service:PostService = builder.create(PostService::class.java)
+    val service: PostService = builder.create(PostService::class.java)
 }
