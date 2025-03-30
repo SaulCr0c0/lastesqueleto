@@ -56,7 +56,9 @@ android {
 }
 
 dependencies {
-
+    implementation(project(":data"))
+    implementation(project(":usesCases"))
+    implementation(project(":usesCases"))
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
