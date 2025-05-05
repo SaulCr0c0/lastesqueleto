@@ -1,4 +1,8 @@
 package com.spokefan.lastesqueleto.ui.screens.listScreen
 
-class ListScreen {
+import androidx.compose.runtime.Composable
+
+@Composable
+fun ListScreen(){
+
 }
