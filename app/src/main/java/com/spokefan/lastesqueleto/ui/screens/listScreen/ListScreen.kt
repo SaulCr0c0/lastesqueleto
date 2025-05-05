@@ -16,5 +16,5 @@ fun ListScreenContent(){
 @Preview(showBackground = true)
 @Composable
 fun ListScreenPreview(){
-
+    ListScreenContent()
 }
